@@ -1,4 +1,5 @@
 # SLoRA: Spiking Low-Rank Adaptation for Power-Efficient Fine-Tuning
+In this folder, we provide the implementation code for the experiments described in this paper, which is also accessible via the following link: [SLoRA](https://anonymous.4open.science/r/SLoRA-26A2).
 
 ## Requirements
 in ./SLoRA
